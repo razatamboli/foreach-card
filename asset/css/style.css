@@ -1,0 +1,23 @@
+
+.card{
+	background-image: url('https://t4.ftcdn.net/jpg/05/79/07/59/360_F_579075957_N9ZpSqkHfSUxNzU7Xzc8deWEqLJlig2o.jpg');
+	object-fit: cover;
+	color: white;
+}
+
+.card:hover{
+	background-image: url('https://img.freepik.com/free-vector/abstract-blue-circle-black-background-technology_1142-12714.jpg');
+	object-fit: cover;
+	color: white;
+}
+
+.btn{
+	background-color: black;
+	color: white;
+	border: 1px solid orange;
+}
+
+.btn:hover{
+	background-color: white;
+	color: grey;
+}
